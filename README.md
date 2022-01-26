@@ -32,9 +32,9 @@
 
 <h2>Let's get connected 🤝</h2>
 <div>
-  <a href='t.me/Heerbie'><img src='/img/icons8-telegram-app-48.png'></img></a>
-  <a href='instagram.com/udontlike_'><img src='/img/icons8-instagram-48.png'></img></a>
-  <a href='mailto:edw.nmv@gmail.com'><img src='/img/icons8-gmail-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-telegram-app-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-instagram-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-gmail-48.png'></img></a>
 </div>
 
 <!--
